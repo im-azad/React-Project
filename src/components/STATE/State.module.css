@@ -1,0 +1,11 @@
+.title {
+	color: blueviolet;
+}
+button {
+	padding: 10px 20px;
+	margin: 20px;
+	background: #34bb6c;
+	color: blue;
+	font-size: 28px;
+	cursor: pointer;
+}

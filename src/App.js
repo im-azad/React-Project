@@ -1,5 +1,6 @@
 import React from 'react';
 import Card from './components/CARD';
+import State from './components/STATE/State';
 
 function App() {
 	return (
@@ -13,7 +14,7 @@ function App() {
 				cardTitle='Card Component Two'
 				cardFooter='React is Beautiful'
 			/>
-			<Card cardTitle='Card Component One' cardFooter='React is Easy' />
+			<State />
 		</div>
 	);
 }
