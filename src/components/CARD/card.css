@@ -6,8 +6,13 @@
 	display: inline-block;
 }
 .card-title {
+	font-size: 24px;
 	margin-bottom: 10px;
 }
 p {
 	margin-bottom: 10px;
+}
+.card-footer {
+	font-size: 18px;
+	color: #b834b8dd;
 }
